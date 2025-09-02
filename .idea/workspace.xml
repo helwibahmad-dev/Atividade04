@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="641a6c18-8fc4-4881-8091-b6f5c5c9fbff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade04-EstruturaDados.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio01/Passageiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/xstream_1_4_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/model/Corrida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/model/Passageiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/model/Sexo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/persistencia/Persistencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/principal/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/repositorio/CentralDeInformacoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade04-EstruturaDados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade04-EstruturaDados.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio01/Passageiro.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +34,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="31yrQtuCnTC19jADXmTDsALn0Km" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,11 +45,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Principal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/helwi/dev/Atividade04-EstruturaDados/src/Main.java"
+    "last_opened_file_path": "C:/Users/helwi/Downloads/xstream-1.4.21.jar",
+    "onboarding.tips.debug.path": "C:/Users/helwi/dev/Atividade04-EstruturaDados/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
